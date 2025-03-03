@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartGradleModule.iml" filepath="$PROJECT_DIR$/StartGradleModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradleModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradleModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradleModule.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradleModule.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/newModule/newModule.iml" filepath="$PROJECT_DIR$/newModule/newModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-ctrl-clem.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-ctrl-clem.iml" />
     </modules>
